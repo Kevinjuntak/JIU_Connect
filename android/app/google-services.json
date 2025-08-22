@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507041146906",
+    "project_id": "jiuconnect",
+    "storage_bucket": "jiuconnect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507041146906:android:e889b4cbe332147f97c9a3",
+        "android_client_info": {
+          "package_name": "com.example.jiu_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN1bfnd5LPL7HxsfyztyPDlZ2Hn6qGL7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
